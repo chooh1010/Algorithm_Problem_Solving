@@ -56,8 +56,6 @@ class Solution {
 
 Arrays.copyOfRange() 메서드를 써서 범위에 해당하는 값들을 바로 구해서 배열에 넣었고 정렬해서 답을 구했다.
 
-### 
-
 ```java
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
